@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/Introduction.csproj": {}
+  },
+  "projects": {
+    "/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/Introduction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/Introduction.csproj",
+        "projectName": "Introduction",
+        "projectPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/Introduction.csproj",
+        "packagesPath": "/Users/vineetsingh/.nuget/packages/",
+        "outputPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/vineetsingh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

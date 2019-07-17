@@ -1,0 +1,11 @@
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/obj/Debug/netcoreapp2.2/Introduction.csprojAssemblyReference.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/obj/Debug/netcoreapp2.2/Introduction.csproj.CoreCompileInputs.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/obj/Debug/netcoreapp2.2/Introduction.AssemblyInfoInputs.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/obj/Debug/netcoreapp2.2/Introduction.AssemblyInfo.cs
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/bin/Debug/netcoreapp2.2/Introduction.deps.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/bin/Debug/netcoreapp2.2/Introduction.runtimeconfig.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/bin/Debug/netcoreapp2.2/Introduction.runtimeconfig.dev.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/bin/Debug/netcoreapp2.2/Introduction.dll
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/bin/Debug/netcoreapp2.2/Introduction.pdb
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/obj/Debug/netcoreapp2.2/Introduction.dll
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Introduction/obj/Debug/netcoreapp2.2/Introduction.pdb
