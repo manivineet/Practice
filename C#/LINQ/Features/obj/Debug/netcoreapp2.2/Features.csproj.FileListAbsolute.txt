@@ -1,0 +1,11 @@
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Features/obj/Debug/netcoreapp2.2/Features.csprojAssemblyReference.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Features/obj/Debug/netcoreapp2.2/Features.csproj.CoreCompileInputs.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Features/obj/Debug/netcoreapp2.2/Features.AssemblyInfoInputs.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Features/obj/Debug/netcoreapp2.2/Features.AssemblyInfo.cs
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Features/bin/Debug/netcoreapp2.2/Features.deps.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Features/bin/Debug/netcoreapp2.2/Features.runtimeconfig.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Features/bin/Debug/netcoreapp2.2/Features.runtimeconfig.dev.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Features/bin/Debug/netcoreapp2.2/Features.dll
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Features/bin/Debug/netcoreapp2.2/Features.pdb
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Features/obj/Debug/netcoreapp2.2/Features.dll
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Features/obj/Debug/netcoreapp2.2/Features.pdb
