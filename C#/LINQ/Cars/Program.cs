@@ -5,8 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cars {
-    class Program {
+namespace Cars
+{
+    class Program
+    {
         static void Main(string[] args)
         {
             var cars = ProcessCars("fuel.csv");
@@ -50,6 +52,14 @@ namespace Cars {
                 Console.WriteLine($"\t Min: {result.Min}");
                 Console.WriteLine($"\t Avg: {result.Avg}");
             }
+
+            Console.WriteLine("\n");
+
+            foreach (var manufacturer in manufacturers.OrderByDescending(m => m.Name)
+                                            .Take(5))
+            {
+                Console.WriteLine($"{manufacturer.Name}");
+            }
         }
 
         private static List<Car> ProcessCars(string path)
@@ -90,7 +100,7 @@ namespace Cars {
             Max = Int32.MinValue;
             Min = Int32.MaxValue;
         }
-        
+
         public CarStatistics Accumulate(Car car)
         {
             Count += 1;
