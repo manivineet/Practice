@@ -1,0 +1,11 @@
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Cars/obj/Debug/netcoreapp2.2/Cars.csprojAssemblyReference.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Cars/obj/Debug/netcoreapp2.2/Cars.csproj.CoreCompileInputs.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Cars/obj/Debug/netcoreapp2.2/Cars.AssemblyInfoInputs.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Cars/obj/Debug/netcoreapp2.2/Cars.AssemblyInfo.cs
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Cars/bin/Debug/netcoreapp2.2/Cars.deps.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Cars/bin/Debug/netcoreapp2.2/Cars.runtimeconfig.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Cars/bin/Debug/netcoreapp2.2/Cars.runtimeconfig.dev.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Cars/bin/Debug/netcoreapp2.2/Cars.dll
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Cars/bin/Debug/netcoreapp2.2/Cars.pdb
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Cars/obj/Debug/netcoreapp2.2/Cars.dll
+/Users/vineetsingh/Desktop/Code/Practice/C#/LINQ/Cars/obj/Debug/netcoreapp2.2/Cars.pdb
