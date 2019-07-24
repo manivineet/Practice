@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/test/test.csproj": {}
+  },
+  "projects": {
+    "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/src.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/src.csproj",
+        "projectName": "src",
+        "projectPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/src.csproj",
+        "packagesPath": "/Users/vineetsingh/.nuget/packages/",
+        "outputPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/vineetsingh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/test/test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/test/test.csproj",
+        "projectName": "test",
+        "projectPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/test/test.csproj",
+        "packagesPath": "/Users/vineetsingh/.nuget/packages/",
+        "outputPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/vineetsingh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/src.csproj": {
+                "projectPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/src.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

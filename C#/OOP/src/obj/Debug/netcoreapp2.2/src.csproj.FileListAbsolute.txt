@@ -1,0 +1,11 @@
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/bin/Debug/netcoreapp2.2/src.deps.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/bin/Debug/netcoreapp2.2/src.runtimeconfig.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/bin/Debug/netcoreapp2.2/src.runtimeconfig.dev.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/bin/Debug/netcoreapp2.2/src.dll
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/bin/Debug/netcoreapp2.2/src.pdb
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/obj/Debug/netcoreapp2.2/src.csprojAssemblyReference.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/obj/Debug/netcoreapp2.2/src.csproj.CoreCompileInputs.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/obj/Debug/netcoreapp2.2/src.AssemblyInfoInputs.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/obj/Debug/netcoreapp2.2/src.AssemblyInfo.cs
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/obj/Debug/netcoreapp2.2/src.dll
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/obj/Debug/netcoreapp2.2/src.pdb
