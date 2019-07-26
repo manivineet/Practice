@@ -4,14 +4,14 @@
     "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/test/test.csproj": {}
   },
   "projects": {
-    "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/src.csproj": {
+    "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/ACM.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/src.csproj",
-        "projectName": "src",
-        "projectPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/src.csproj",
+        "projectUniqueName": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/ACM.BL.csproj",
+        "projectName": "ACM.BL",
+        "projectPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/ACM.BL.csproj",
         "packagesPath": "/Users/vineetsingh/.nuget/packages/",
-        "outputPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/obj/",
+        "outputPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -20,13 +20,13 @@
           "/Users/vineetsingh/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netstandard2.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -37,12 +37,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netstandard2.0": {
           "dependencies": {
-            "Microsoft.NETCore.App": {
+            "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.0.3, )",
               "autoReferenced": true
             }
           },
@@ -78,8 +78,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/src.csproj": {
-                "projectPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/src/src.csproj"
+              "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/ACM.BL.csproj": {
+                "projectPath": "/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/ACM.BL.csproj"
               }
             }
           }

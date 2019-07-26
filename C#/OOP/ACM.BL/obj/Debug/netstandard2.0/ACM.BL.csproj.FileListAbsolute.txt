@@ -1,0 +1,9 @@
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/bin/Debug/netstandard2.0/ACM.BL.deps.json
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/bin/Debug/netstandard2.0/ACM.BL.dll
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/bin/Debug/netstandard2.0/ACM.BL.pdb
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.csprojAssemblyReference.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.csproj.CoreCompileInputs.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.AssemblyInfoInputs.cache
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.AssemblyInfo.cs
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.dll
+/Users/vineetsingh/Desktop/Code/Practice/C#/OOP/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.pdb
