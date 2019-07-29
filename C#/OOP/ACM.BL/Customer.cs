@@ -3,23 +3,28 @@ using System.Collections.Generic;
 
 namespace ACM.BL
 {
-    public class Customer
+    public class Customer : EntityBase
     {
         //we need to create a default Constructor when there's an overloaded Constructor, like we have one below
-        public Customer()
+        public Customer() : this(0)
         {
-            
+
         }
         public Customer(int customerId)
         {
             CustomerId = customerId;
-            
+            AddressList = new List<Address>();
+
         }
+
+        public int CustomerType { get; set; }
         public int CustomerId { get; private set; }
 
         public string EmailAddress { get; set; }
 
         public string FirstName { get; set; }
+
+        public List<Address> AddressList { get; set; }
 
         public string FullName
         {
@@ -53,31 +58,31 @@ namespace ACM.BL
         }
 
         /// <summary>
-    /// Retrieve all customers.
-    /// </summary>
-    public List<Customer> Retrieve()
-    {
-      // Code that retrieves all of the customers
+        /// Retrieve all customers.
+        /// </summary>
+        public List<Customer> Retrieve()
+        {
+            // Code that retrieves all of the customers
 
-      return new List<Customer>();
-    }
+            return new List<Customer>();
+        }
 
-    /// <summary>
-    /// Saves the current customer.
-    /// </summary>
-    /// <returns></returns>
-    public bool Save()
-    {
-      // Code that saves the defined customer
+        /// <summary>
+        /// Saves the current customer.
+        /// </summary>
+        /// <returns></returns>
+        public bool Save()
+        {
+            // Code that saves the defined customer
 
-      return true;
-    }
+            return true;
+        }
 
         /// <summary>
         /// Validates the customer data.
         /// </summary>
         /// <returns></returns>
-        public bool Validate()
+        public override bool Validate()
         {
             var isValid = true;
 
@@ -86,7 +91,5 @@ namespace ACM.BL
 
             return isValid;
         }
-
-
     }
 }
