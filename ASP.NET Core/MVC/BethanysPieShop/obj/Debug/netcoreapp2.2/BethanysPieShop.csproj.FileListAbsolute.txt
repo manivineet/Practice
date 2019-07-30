@@ -28,3 +28,4 @@
 /Users/vineetsingh/Desktop/Code/Practice/ASP.NET Core/MVC/BethanysPieShop/obj/Debug/netcoreapp2.2/BethanysPieShop.dll
 /Users/vineetsingh/Desktop/Code/Practice/ASP.NET Core/MVC/BethanysPieShop/obj/Debug/netcoreapp2.2/BethanysPieShop.pdb
 /Users/vineetsingh/Desktop/Code/Practice/ASP.NET Core/MVC/BethanysPieShop/obj/Debug/netcoreapp2.2/BethanysPieShop.csproj.CopyComplete
+/Users/vineetsingh/Desktop/Code/Practice/ASP.NET Core/MVC/BethanysPieShop/obj/Debug/netcoreapp2.2/Razor/Views/Home/Details.g.cshtml.cs

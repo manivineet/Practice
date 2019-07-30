@@ -23,8 +23,13 @@ using BethanysPieShop.Models;
 
 #line default
 #line hidden
+#line 3 "/Users/vineetsingh/Desktop/Code/Practice/ASP.NET Core/MVC/BethanysPieShop/Views/_ViewImports.cshtml"
+using BethanysPieShop.ViewModels;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6a5625cc8fb4476f348b0fe9041c550465d8bf9", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3e0910094f60d184604af07bcde6dfd9b51e5d9f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d0d4de53f18c625a6684796d97ecb9856199e289", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998

@@ -23,8 +23,13 @@ using BethanysPieShop.Models;
 
 #line default
 #line hidden
+#line 3 "/Users/vineetsingh/Desktop/Code/Practice/ASP.NET Core/MVC/BethanysPieShop/Views/_ViewImports.cshtml"
+using BethanysPieShop.ViewModels;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d8ddb6bffa5a9b264bf8f89038bf03c234083fd3", @"/Views/Home/Privacy.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3e0910094f60d184604af07bcde6dfd9b51e5d9f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d0d4de53f18c625a6684796d97ecb9856199e289", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Privacy : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

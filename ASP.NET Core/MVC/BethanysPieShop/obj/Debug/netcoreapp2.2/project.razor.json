@@ -2943,6 +2943,11 @@
   "RootNamespace": "BethanysPieShop",
   "Documents": [
     {
+      "FilePath": "Views/Home/Details.cshtml",
+      "TargetPath": "Views/Home/Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views/Home/Privacy.cshtml",
       "TargetPath": "Views/Home/Privacy.cshtml",
       "FileKind": "mvc"
